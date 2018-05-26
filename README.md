@@ -1,5 +1,7 @@
 # WilsonOS
 
+### The project is based on [Write your own Operating System](https://www.youtube.com/watch?v=1rnA6wpF0o4&t=20s)
+
 ### Prerequisite:
 ```python
 # Please install the following packages
