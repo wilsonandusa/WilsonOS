@@ -30,7 +30,9 @@ VirtualBox
 name: WilsonOS
 type: Other
 version: Other/Unknown
-# Load the iso file into the VirtualBox to create the new OS(default name should be "WilsonOS", you can manually change the name in the makefile). 
+# Load the iso file into the VirtualBox to create
+# the new OS(default name should be "WilsonOS", 
+# you can manually change the name in the makefile). 
 ```
 
 ### Run
